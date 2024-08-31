@@ -1,6 +1,6 @@
 import "bootstrap/dist/css/bootstrap.css"
 import "bootstrap/dist/js/bootstrap.js"
-import "./assets/css/style.css"
+// import "./assets/css/style.css"
 
 import router from '@router'
 import { createApp } from 'vue'
